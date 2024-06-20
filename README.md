@@ -3,7 +3,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
-<a href="https://sachinportifolio.netlify.app/" target="_blank">Visit Now🚀</a>
+<a href="https://sachinjha21.netlify.app/" target="_blank">Visit Now🚀</a>
 </h2>
 
 ## 📌 Tech Stack:
